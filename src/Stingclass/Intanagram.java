@@ -14,10 +14,10 @@ public class Intanagram {
 
 			name1.equals(name2);
 
-			System.out.println("is anagram");
+			System.out.println(name1 + "  " + name2 + "---> is anagram");
 		}
 		else {
-			System.out.println("no anagram");
+			System.out.println(name1 + "  " + name2 + "----> no anagram");
 		}
 
 	}
